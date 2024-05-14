@@ -11,6 +11,6 @@ Cardio_Train_USE_FINAL.csv - modified datafile specifically used in the report (
 Data Source:  
 https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset
 
-Background:
+Background:   
 This project was completed in Late 2022 in collaboration with one other colleage, together forming team Baked Cauliflower.    
 This project utilized the Rattle library, which acts as a GUI for R. As such, no code was truly written, but rather we heavily focussed on refining the methodology for data preperation, analysis, and modeling. The steps are thoroughly documented in the report PDF.
